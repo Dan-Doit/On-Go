@@ -1,0 +1,14 @@
+동아리 소개
+on-go_about
+
+문제
+on-go_exam
+
+채팅, Q&A
+on-go_q&a
+
+자유게시판
+on-go_notice
+
+회원가입 페이지
+on-go_sign-up
